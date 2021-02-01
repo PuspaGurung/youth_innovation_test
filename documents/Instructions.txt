@@ -1,0 +1,16 @@
+Instructions
+============
+
+Required Output;
+  - You need to create a Pie Chart using React JS and Recharts library which showcases the number of projects that is being run by an organization.
+    Please refer to the file "Links.txt" to explore what Projects and Organizations structure looks like.
+  - If you look at the end points for Organization and Projects from "Links.txt" file, the connecting key between those two end points is "oid".
+  - A screenshot of what the exact output looks like can be found in the file "output.png".
+    - Please note you do not have to have the same colors in the pie chart as in the "output.png" file..
+
+Other Instructions
+  - You are free to use any other npm packages or libraries.
+  - You have to use React and Recharts to complete this task.
+  - Once completed, you can either provide the source code URL in the email or host the application on
+    https://codesandbox.io/ and send the URL.
+  - Please make sure that the Git URL is public in case you decide to host it on Git platforms.

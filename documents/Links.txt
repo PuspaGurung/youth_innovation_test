@@ -1,0 +1,13 @@
+Links
+=====
+
+  - Organizations end point
+     - https://mdsa.bipad.gov.np/api/v1/organization
+  - Projects end point
+     - https://mdsa.bipad.gov.np/api/v1/project
+  - Recharts Library
+     - https://recharts.org/
+  - Recharts Pie chart example
+    - https://recharts.org/en-US/examples/TwoLevelPieChart
+    - Note: You do not need to have a two level PieChart, just a single level PieChart is enough.
+            Meaning you do not need to have an inner pie chart as shown in the example.

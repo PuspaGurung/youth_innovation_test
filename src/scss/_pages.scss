@@ -1,0 +1,59 @@
+.data-visualization {
+    &__container {
+    }
+    &__header,
+    &__body {
+        display: flex;
+        align-items: center;
+        flex-flow: column;
+        justify-content: center;
+
+        .data-pie {
+        }
+        .data-info {
+            display: flex;
+            align-items: center;
+            justify-content: flex-start;
+            width: 70%;
+
+            &__lists {
+                width: 100%;
+                display: flex;
+                flex-flow: row wrap;
+                span {
+                    display: inline-block;
+                }
+                li {
+                    display: flex;
+                    align-items: center;
+                    justify-content: flex-start;
+                    margin-right: 2rem;
+
+                    .col {
+                        display: flex;
+                        flex-flow: column;
+                        line-height: initial;
+                        justify-content: flex-start;
+                    }
+                }
+            }
+            &__org-name {
+                width: 2rem;
+                height: 2rem;
+                display: inline-block;
+                margin-right: 0.5rem;
+            }
+            &__color-code {
+            }
+            &__tot-project {
+                font-weight: bold;
+                font-size: 1.2rem;
+            }
+        }
+    }
+    &__header {
+        padding: 2rem 0;
+    }
+    &__body {
+    }
+}
